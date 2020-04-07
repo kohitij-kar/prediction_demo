@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - matplotlib==2.2.2
   - pip:
     - h5py==2.10.0
     - joblib==0.14.1
